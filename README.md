@@ -3,6 +3,7 @@
 - 👀 love to learn something every single day<br/>
 - 🌱 I’m currently learning Computer Science In Lebanese University(LU)<br/>
 - 💞️ Ive built a few projects and I’m looking for a role where I can grow and learn from other experienced team members<br/>
+- I am hard - working with strong attention to detail , and eager to learn about new programming languages and technologies
 <br/>
 
 <a href="https://www.linkedin.com/in/rana-jaafar/" target = "_blank"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a> 
