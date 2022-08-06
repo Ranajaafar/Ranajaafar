@@ -31,9 +31,16 @@
  
 <br/>
 </p>
-📫 Reach me By Email: jaafarrana220@gmail.com 
+
+
+
+📫 Reach me By Email:
+jaafarrana220@gmail.com
 <br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranajaafar&show_icons=true&locale=en&layout=compact" alt="Ranajaafar" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranajaafar&show_icons=true&locale=en&layout=compact" alt="ranajaafar" /></p>
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranajaafar&show_icons=true&locale=en&layout=compact" alt="Ranajaafar" /></p>
 
