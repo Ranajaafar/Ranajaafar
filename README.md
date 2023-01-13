@@ -9,6 +9,7 @@
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ranajaafar&label=Profile%20views&color=6805D3&style=flat" alt="Ranajaafar" /> </p></h3>
 <h3> Connect with me</h3>
 <a href="https://www.linkedin.com/in/rana-jaafar/" target = "_blank"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a> 
+<a href="mailto:jaafarrana220@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/email-gray?style=for-the-badge"/></a> 
 
  <h3>📜 Certificates:<h3>
   
@@ -38,9 +39,9 @@
 jaafarrana220@gmail.com
 <br/><br/>
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranajaafar&show_icons=true&locale=en&layout=compact" alt="ranajaafar" /></p>
-
+-->
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranajaafar&show_icons=true&locale=en&layout=compact" alt="Ranajaafar" /></p>
 
