@@ -3,7 +3,7 @@
 
 - Born and raised in Lebanon
 - 👀 love to learn something every single day
-- 🌱 I’m currently learning Computer Science In Lebanese University(LU)
+- 🌱 I’ve completed my master 1 degree lately in Computer Science at Lebanese University(LU) 
 - 💞️ Ive built a few projects and I’m looking for a role where I can grow and learn from other experienced team members
 - I am hard - working with strong attention to detail , and eager to learn about new programming languages and technologies
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ranajaafar&label=Profile%20views&color=6805D3&style=flat" alt="Ranajaafar" /> </p></h3>
@@ -18,7 +18,10 @@
 
 <h3>Technologies and Languages</h3>
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="android" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="android" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="android" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="android" width="40" height="40"/> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -39,12 +42,11 @@
 jaafarrana220@gmail.com
 <br/><br/>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranajaafar&show_icons=true&locale=en&layout=compact" alt="ranajaafar" /></p>
--->
-<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranajaafar&show_icons=true&locale=en&layout=compact" alt="Ranajaafar" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ranajaafar&show_icons=true&locale=en" alt="Ranajaafar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranajaafar&" alt="Ranajaafar" /></p>-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranajaafar&" alt="Ranajaafar" /></p>
