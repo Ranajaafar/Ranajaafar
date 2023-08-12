@@ -10,6 +10,9 @@
 <h3> Connect with me</h3>
 <a href="https://www.linkedin.com/in/rana-jaafar/" target = "_blank"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a> 
 <a href="mailto:jaafarrana220@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/email-gray?style=for-the-badge"/></a> 
+<a href="https://leetcode.com/Rana_Jaafar/" target = "_blank"><img src = "https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge"/></a>
+<a href="https://www.hackerrank.com/jaafarrana220" target = "_blank"><img src = "https://img.shields.io/badge/hackerrank-green?style=for-the-badge"/></a>
+
 
  <h3>📜 Certificates:<h3>
   
