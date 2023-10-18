@@ -1,24 +1,37 @@
-<h1 align="center" > Hi 👋,  I’m Rana Jaafar </h1>
+<!--<h1 align="center" > Hi 👋,  I’m Rana Jaafar </h1>-->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=fe249a&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Rana+Jaafar!;A+Passionate+Software+Developer;" />
+</h1>
 
+<br/>
 
-- Born and raised in Lebanon
-- 👀 love to learn something every single day
-- 🌱 I’ve completed my master 1 degree lately in Computer Science at Lebanese University(LU) 
-- 💞️ Ive built a few projects and I’m looking for a role where I can grow and learn from other experienced team members
-- I am hard - working with strong attention to detail , and eager to learn about new programming languages and technologies
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ranajaafar&label=Profile%20views&color=6805D3&style=flat" alt="Ranajaafar" /> </p></h3>
+<div align="center">
+ 
+ 🌱 Born and raised in Lebanon
+ 
+ 👀 love to learn something every single day 
+ 
+ 🔭 I’ve graduated with my master 1 degree in Computer Science at Lebanese University(LU) 
+
+ 💞️ Ive built a few projects and I’m looking for a role where I can grow and learn from other experienced team members
+
+ ⚡ I am hard-worker with strong attention to detail , and eager to learn about new programming languages and technologies
+ 
+ </div>
+
+<h3 align="center"> <img src="https://visitcount.itsvg.in/api?id=RanaJaafar&icon=0&color=5" alt="Ranajaafar" /> </h3>
+
 <h3> Connect with me</h3>
 <a href="https://www.linkedin.com/in/rana-jaafar/" target = "_blank"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a> 
 <a href="mailto:jaafarrana220@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/email-gray?style=for-the-badge"/></a> 
-<a href="https://leetcode.com/Rana_Jaafar/" target = "_blank"><img src = "https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge"/></a>
-<a href="https://www.hackerrank.com/jaafarrana220" target = "_blank"><img src = "https://img.shields.io/badge/hackerrank-green?style=for-the-badge"/></a>
+<a href="https://leetcode.com/Rana_Jaafar/" target = "_blank"><img src = "https://img.shields.io/badge/LeetCode-pink?style=for-the-badge"/></a>
+<a href="https://www.hackerrank.com/jaafarrana220" target = "_blank"><img src = "https://img.shields.io/badge/hackerrank-violet?style=for-the-badge"/></a>
 
 
- <h3>📜 Certificates:<h3>
+ <h3>📜 Certificates:</h3>
   
 - [Learning Java | Linkedin](https://www.linkedin.com/learning/certificates/b1b2d725904a02177ce290772df8acdc754437c44caf334258c38ff57b95487f)
 - [Basic principales Excel | Coursera](https://www.coursera.org/account/accomplishments/certificate/6L7JKA2JV989)
-
 <h3>Technologies and Languages</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -41,15 +54,27 @@
 
 
 
+  <br/><br/><br/>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranajaafar&show_icons=true&locale=en&layout=compact" alt="Ranajaafar" /></p>
+<p>af005f
+fe249a 💬 Ask me about anyth
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranajaafar&show_icons=true&locale=en&layout=compact" alt="Ranajaafar" />
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RanaJaafar&theme=monokai&hide_border=false" alt="Ranajaafar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranajaafar&" alt="Ranajaafar" /></p>
+
+-->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaJaafar&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RanaJaafar&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RanaJaafar&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 📫 Reach me By Email:
 jaafarrana220@gmail.com
 <br/><br/>
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=fe249a&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message!;I'm+always+down+to+collab+:)">
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranajaafar&show_icons=true&locale=en&layout=compact" alt="Ranajaafar" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ranajaafar&show_icons=true&locale=en" alt="Ranajaafar" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranajaafar&" alt="Ranajaafar" /></p>
